@@ -1,0 +1,38 @@
+{
+  "relu": {
+    "status": "solved",
+    "solved_at": "2026-04-03T13:19:41.266220",
+    "best_time": 0.07511668700044538,
+    "attempts": 1
+  },
+  "softmax": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-03T13:39:12.244873",
+    "best_time": 0.0040788169999359525
+  },
+  "linear": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-03T15:14:14.926777",
+    "best_time": 0.005057998998381663
+  },
+  "layernorm": {
+    "status": "solved",
+    "attempts": 4,
+    "solved_at": "2026-04-03T15:43:12.467009",
+    "best_time": 0.0024773800032562576
+  },
+  "attention": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-03T16:20:45.480198",
+    "best_time": 0.005689158002496697
+  },
+  "mha": {
+    "status": "solved",
+    "solved_at": "2026-04-03T17:36:13.024417",
+    "best_time": 0.034028121997835115,
+    "attempts": 1
+  }
+}
