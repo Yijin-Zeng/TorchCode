@@ -70,5 +70,11 @@
     "solved_at": "2026-04-06T10:59:46.601317",
     "best_time": 0.020230296000590897,
     "attempts": 1
+  },
+  "gpt2_block": {
+    "status": "solved",
+    "attempts": 4,
+    "solved_at": "2026-04-06T20:35:02.742745",
+    "best_time": 0.015962289995513856
   }
 }
