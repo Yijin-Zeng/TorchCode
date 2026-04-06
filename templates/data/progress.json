@@ -58,5 +58,17 @@
     "solved_at": "2026-04-05T11:07:13.943386",
     "best_time": 0.02253644999291282,
     "attempts": 1
+  },
+  "sliding_window": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-06T10:16:43.875074",
+    "best_time": 0.004632832999959646
+  },
+  "linear_attention": {
+    "status": "solved",
+    "solved_at": "2026-04-06T10:59:46.601317",
+    "best_time": 0.020230296000590897,
+    "attempts": 1
   }
 }
