@@ -76,5 +76,11 @@
     "attempts": 4,
     "solved_at": "2026-04-06T20:35:02.742745",
     "best_time": 0.015962289995513856
+  },
+  "kv_cache": {
+    "status": "solved",
+    "solved_at": "2026-04-07T19:35:24.190731",
+    "best_time": 0.021831852000104846,
+    "attempts": 1
   }
 }
