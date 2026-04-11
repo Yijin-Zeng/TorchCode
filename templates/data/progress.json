@@ -88,5 +88,35 @@
     "solved_at": "2026-04-09T07:43:28.436432",
     "best_time": 0.025393204000010883,
     "attempts": 1
+  },
+  "cross_entropy": {
+    "status": "solved",
+    "solved_at": "2026-04-11T16:45:04.886502",
+    "best_time": 0.016716294000048038,
+    "attempts": 1
+  },
+  "dropout": {
+    "status": "solved",
+    "solved_at": "2026-04-11T17:02:12.339710",
+    "best_time": 0.015800812999941627,
+    "attempts": 1
+  },
+  "embedding": {
+    "status": "solved",
+    "solved_at": "2026-04-11T17:28:33.007881",
+    "best_time": 0.016086605000054988,
+    "attempts": 1
+  },
+  "gelu": {
+    "status": "solved",
+    "solved_at": "2026-04-11T17:31:29.272642",
+    "best_time": 0.01877802899980452,
+    "attempts": 1
+  },
+  "weight_init": {
+    "status": "solved",
+    "attempts": 3,
+    "solved_at": "2026-04-11T17:45:16.201610",
+    "best_time": 0.0058698530001493054
   }
 }
