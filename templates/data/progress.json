@@ -136,5 +136,17 @@
     "attempts": 5,
     "solved_at": "2026-04-14T08:03:52.213120",
     "best_time": 0.007846414999903573
+  },
+  "cross_attention": {
+    "status": "solved",
+    "solved_at": "2026-04-14T21:39:39.045283",
+    "best_time": 0.031122780999794486,
+    "attempts": 1
+  },
+  "flash_attention": {
+    "status": "solved",
+    "attempts": 8,
+    "solved_at": "2026-04-16T08:43:01.545499",
+    "best_time": 0.011941362005018163
   }
 }
