@@ -154,5 +154,17 @@
     "solved_at": "2026-04-18T11:42:17.092123",
     "best_time": 0.024091653999676055,
     "attempts": 1
+  },
+  "adam": {
+    "status": "solved",
+    "solved_at": "2026-04-22T21:08:16.906059",
+    "best_time": 1.0155352649999259,
+    "attempts": 1
+  },
+  "cosine_lr": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-25T07:43:02.636107",
+    "best_time": 0.0002731949998633354
   }
 }
