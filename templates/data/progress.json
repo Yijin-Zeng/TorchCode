@@ -184,5 +184,11 @@
     "attempts": 2,
     "solved_at": "2026-05-03T14:19:09.222180",
     "best_time": 0.0019606819996624836
+  },
+  "speculative_decoding": {
+    "status": "solved",
+    "attempts": 9,
+    "solved_at": "2026-05-03T21:47:29.294033",
+    "best_time": 0.028474373000790365
   }
 }
