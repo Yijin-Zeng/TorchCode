@@ -178,5 +178,11 @@
     "attempts": 2,
     "solved_at": "2026-04-26T15:23:44.138308",
     "best_time": 0.13346691599963378
+  },
+  "beam_search": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-05-03T14:19:09.222180",
+    "best_time": 0.0019606819996624836
   }
 }
